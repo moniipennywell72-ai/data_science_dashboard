@@ -1,0 +1,6 @@
+id,name,spend,city
+1,Alice,120.0,New York
+2,Bob,85.0,Los Angeles
+3,Charlie,,Chicago
+4,Alice,120.0,New York
+5,Diana,200.0,Houston
