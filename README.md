@@ -1,4 +1,3 @@
-# data_science_dashboard
 
 # Data Science Dashboard
 
