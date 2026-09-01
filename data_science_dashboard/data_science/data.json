@@ -1,0 +1,1 @@
+[{"id":1,"name":"Alice","spend":120.0,"city":"New York"},{"id":2,"name":"Bob","spend":85.0,"city":"Los Angeles"},{"id":3,"name":"Charlie","spend":"missing","city":"Chicago"},{"id":4,"name":"Alice","spend":120.0,"city":"New York"},{"id":5,"name":"Diana","spend":200.0,"city":"Houston"}]
